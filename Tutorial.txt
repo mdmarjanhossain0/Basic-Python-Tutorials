@@ -1,0 +1,71 @@
+Python most popular for many branch of programming, Like ML, DL, Data Science,
+	 web development etc.
+Python is a object oriend programming language and scripting language.
+Python is easy to learn and fast.
+It's dynamicly type language.
+
+
+Basic Code with Input, Output
+	How to run  python; Difference between compiler and interperter
+
+variable
+
+
+// Conditional
+// conditional keyword, conditional oparetor( >, <, ==, !=)
+if else, switch case, loop(For, While, do while), continue, break
+
+Abstraction, Encapsulation, Inheritance, Polymorphism
+Class
+ 	i. Variable // instance, class variable
+	ii. Method/Function, instance method, class, static method
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Variable 
+        // 1. Premitive/Referance Variable use as member variable
+        // 2. Static Variable 
+        // 3. Constant
+
+
+
+    // Method/Function
+        // 1. Simple worker Method
+        // 2. Getter or Setter Method
+        // 3. Static Method
+        // 4. Method Overloading
+        // 5. Method Overriding
+        // 6. Constractor
